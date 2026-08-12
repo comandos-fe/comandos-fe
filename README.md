@@ -2,7 +2,7 @@
 Integrantes do grupo: 
 Bruno Fetzer - 202511362, 
 Bruno Machado -          ,
-Davi -          ,
+Davi - 202410357,
 Frederico -          .
 
 Tema do seminário:
