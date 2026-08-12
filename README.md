@@ -1,9 +1,9 @@
 # comandos-fe
-Integrantes do grupo: 
-Bruno Fetzer - 202511362, 
-Bruno Machado -          ,
-Davi - 202410357,
-Frederico -          .
+Integrantes do grupo:   
+Bruno Fetzer - 202511362,   
+Bruno Machado - 202411968,  
+Davi - 202410357,  
+Frederico -          .  
 
 Tema do seminário:
 
